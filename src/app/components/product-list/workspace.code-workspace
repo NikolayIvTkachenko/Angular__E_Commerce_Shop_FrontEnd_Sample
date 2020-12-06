@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../demo-user-app-test"
+		},
+		{
+			"path": "../../../../../../typescript-training"
+		},
+		{
+			"path": "../../../../../../angular-training"
+		},
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../FrontEnd"
+		}
+	],
+	"settings": {}
+}
